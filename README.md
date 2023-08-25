@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
