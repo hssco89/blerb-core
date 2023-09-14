@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Hold failed upload metrics and upload with next upload metrics (#8513)
