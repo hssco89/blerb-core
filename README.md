@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add PR Summary step to Ultralytics Actions (#7675)
