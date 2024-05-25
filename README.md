@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add OBB benchmarks to CI (#7777)
