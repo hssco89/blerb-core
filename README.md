@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
