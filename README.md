@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
