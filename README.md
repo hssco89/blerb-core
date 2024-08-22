@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Improve Docs Modes tables (#8266)
